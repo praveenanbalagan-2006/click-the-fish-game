@@ -1,4 +1,4 @@
-Its a Fish Clicking Game using tkinter and canvas. The Game Recommends randomly a Fish the Player must click the in 10 Seconds.
+It's a Fish Clicking Game using tkinter and canvas. The Game Recommends randomly a Fish the Player must click the in 10 Seconds.
 
 Instructions To Run:
 In VS Code  terminal aifish.py
